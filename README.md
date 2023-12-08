@@ -1,11 +1,5 @@
 # commit-msg plugin
 
-*you should run `pip install pre-commit` first.* And add following texts in your **.pre-commit-config.yaml**
+*you should run `pip install pre-commit` first.* view this url for help to install the plugin
 
-```yaml
-repos:
-    - repo: https://github.com/JinShultze/commit-msg-plugin
-      rev: v1.0.0
-      hooks:
-        - id: cmmsg
-```
+https://pre-commit.com/#developing-hooks-interactively
